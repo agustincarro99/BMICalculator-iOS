@@ -4,7 +4,7 @@ En función del peso y la altura del usuario calculará su masa corporal y le da
 
 ## Resumen:
 
-- Aplicaciones multipantalla con navegación animada utilizando segues.
+- Aplicación multipantalla con navegación animada utilizando segues.
 - Optional binding, optional chaining y nil coalescing operator.
 - Utilización de clases.
 - Formato de cadenas.
